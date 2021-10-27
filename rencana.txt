@@ -2,7 +2,10 @@ RENCANA TUTORIAL
 
 -isi 1
   *isi dari isi 1
-    #anakan isi dari isi 1
+  *anakan isi dari isi 1
+   #isi dari anakan isi dari isi 1
 -isi 2
 -isi 3
+ *isi dari isi 3
 -isi 4
+-isi 5
