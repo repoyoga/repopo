@@ -1,5 +1,7 @@
 RENCANA TUTORIAL
 
 -isi 1
+  *isi dari isi 1
+  *anakan isi dari isi 1
 -isi 2
 -isi 3
